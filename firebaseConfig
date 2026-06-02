@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDDxDtNRTMB0Mz6tJRXYzpziMVyH-JdPEs",
+  authDomain: "frontier-view.firebaseapp.com",
+  projectId: "frontier-view",
+  storageBucket: "frontier-view.firebasestorage.app",
+  messagingSenderId: "437129453300",
+  appId: "1:437129453300:web:8926ddc019b95ae58dc8a1",
+  measurementId: "G-P4W5L7GFZ5"
+};
